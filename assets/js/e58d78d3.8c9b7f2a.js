@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[6270],{8011:e=>{e.exports=JSON.parse('{"title":"Self Education","slug":"/category/self-education","permalink":"/docs/category/self-education","navigation":{"previous":{"title":"TOC","permalink":"/docs/category/toc"},"next":{"title":"Math","permalink":"/docs/category/math"}}}')}}]);
