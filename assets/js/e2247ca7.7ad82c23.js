@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[6508],{8290:e=>{e.exports=JSON.parse('{"title":"TOC","slug":"/category/toc","permalink":"/docs/category/toc","navigation":{"next":{"title":"Computer Science","permalink":"/docs/category/computer-science"}}}')}}]);
