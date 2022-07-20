@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[6979],{2839:e=>{e.exports=JSON.parse('{"label":"winbind","permalink":"/blog/tags/winbind","allTagsPath":"/blog/tags","count":1}')}}]);
